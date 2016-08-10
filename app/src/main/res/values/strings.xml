@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Watershed</string>
+    <string name="result">Рассчитать</string>
+    <string name="K2">K2, H(см)=</string>
+    <string name="L">L(м)=</string>
+    <string name="K1">K1, H(см)=</string>
+    <string name="layer">Слой H (см)=</string>
+    <string name="B">Hпр=</string>
+    <string name="buttonDetail">Детализация</string>
+    <string name="clear">Сбросить данные</string>
+    <string name="First">First</string>
+    <string name="Second">Second</string>
+    <string name="Back">Назад</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="justK1">K1</string>
+    <string name="justK2">K2</string>
+    <string name="M">M.</string>
+    <string name="Simplem">м</string>
+    <string name="Hpr">Hпр(см)</string>
+</resources>
